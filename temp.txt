@@ -1,0 +1,2 @@
+pwd
+/media/omnisky/D4T/JSH/faceDetection/Projects/a_face/fb_0118_2
